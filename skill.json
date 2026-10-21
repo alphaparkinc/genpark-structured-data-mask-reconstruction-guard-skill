@@ -1,0 +1,10 @@
+{
+  "name": "genpark-structured-data-mask-reconstruction-guard-skill",
+  "version": "1.0.1",
+  "description": "Deterministic reversible tabular and JSON record anonymizer and de-identification guard with HMAC pseudonyms",
+  "tools": [
+    "scan_pii_entities",
+    "mask_records",
+    "unmask_records"
+  ]
+}
