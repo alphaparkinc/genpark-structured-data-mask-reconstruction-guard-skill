@@ -1,0 +1,7 @@
+name: genpark-structured-data-mask-reconstruction-guard-skill
+description: Deterministic reversible tabular and JSON record anonymizer and de-identification guard with HMAC pseudonyms
+version: 1.0.1
+entrypoint: mcp_server.py
+command: python
+args:
+  - mcp_server.py
